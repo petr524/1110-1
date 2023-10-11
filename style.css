@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+}
+.content{
+    font-weight: bold;
+    width: 100vw;
+    height: 100vh;
+}
+.logo{
+    background: palevioletred;
+    width: 8vw;
+    height: 8vh;
+    float: left;
+    margin: 50px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 8vh;
+    
+}
+.navigation{
+
+}
+.header{
+    background: coral;
+    width: 100vw;
+    height: 20vh;
+}
+.sidebar{
+    background: orange;
+    width: 20vw;
+    height: 65vh;
+    float: left;
+
+}
+.main{
+    background: lightskyblue;
+    width: 80vw;
+    height: 65vh;
+    float: left;
+}
+.footer{
+    background: green;
+    clear: both;
+    height: 15vh;
+}
